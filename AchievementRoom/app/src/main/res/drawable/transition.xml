@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/book_purple"></item>
+    <item android:drawable="@drawable/human"></item>
+    <item android:drawable="@drawable/potion_green"></item>
+    <item android:drawable="@drawable/scroll"></item>
+    <item android:drawable="@drawable/shield_silver"></item>
+    <item android:drawable="@drawable/skull"></item>
+</transition>

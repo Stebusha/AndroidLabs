@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_app"
+    tools:context=".DBActivity">
+
+    <EditText
+        android:id="@+id/text_achievement"
+        android:layout_width="327dp"
+        android:layout_height="154dp"
+        android:layout_x="11dp"
+        android:layout_y="192dp"
+        android:background="#DCB3E0"
+        android:hint="Новое достижение"
+        android:text=""
+        android:textColor="@color/main_text"
+        android:textSize="38sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.205"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.272" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_x="12dp"
+        android:layout_y="125dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="sans-serif-condensed-light"
+        android:gravity="center"
+        android:text="Введите название:"
+        android:textColor="@color/main_text"
+        android:textSize="42sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="55dp" />
+
+    <Button
+        android:id="@+id/btn_tags"
+        android:layout_width="192dp"
+        android:layout_height="67dp"
+        android:layout_x="14dp"
+        android:layout_y="364dp"
+        android:backgroundTint="@color/btn_color"
+        android:onClick="insertClick"
+        android:text="Добавить"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="382dp" />
+
+</AbsoluteLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_app"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/text2"
+        android:layout_width="206dp"
+        android:layout_height="75dp"
+        android:layout_x="11dp"
+        android:layout_y="80dp"
+        android:background="@android:color/transparent"
+        android:text=""
+        android:textColor="@color/main_text"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="76dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="154dp"
+        android:layout_gravity="center_vertical"
+        android:layout_x="0dp"
+        android:layout_y="210dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Комната достижений Студенческие будни"
+        android:textColor="@color/main_text"
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="289dp" />
+
+    <Button
+        android:id="@+id/button_inf"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_x="11dp"
+        android:layout_y="13dp"
+        android:backgroundTint="@color/btn_color"
+        app:icon="@android:drawable/ic_dialog_info"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/button_sign_in"
+        android:layout_width="123dp"
+        android:layout_height="78dp"
+        android:layout_x="117dp"
+        android:layout_y="451dp"
+        android:backgroundTint="@color/btn_color"
+        android:onClick="startNewPage"
+        android:text="Войти"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="151dp"
+        tools:layout_editor_absoluteY="490dp" />
+</AbsoluteLayout>

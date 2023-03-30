@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_app"
+    tools:context=".ChoicesActivity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="315dp"
+        android:layout_height="88dp"
+        android:layout_gravity="center_vertical"
+        android:layout_x="25dp"
+        android:layout_y="81dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="sans-serif-condensed-light"
+        android:gravity="center"
+        android:text="Мои медали:"
+        android:textColor="@color/main_text"
+        android:textSize="50sp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="289dp" />
+
+    <ImageView
+        android:id="@+id/transition_image"
+        android:layout_width="345dp"
+        android:layout_height="275dp"
+        android:layout_x="10dp"
+        android:layout_y="178dp"
+        android:src="@drawable/transition"
+        tools:layout_editor_absoluteX="Odp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <Button
+        android:id="@+id/list_image"
+        android:layout_width="57dp"
+        android:layout_height="wrap_content"
+        android:layout_x="158dp"
+        android:layout_y="458dp"
+        android:backgroundTint="@color/btn_color"
+        android:onClick="startTransition"
+        app:icon="@android:drawable/ic_media_play" />
+
+</AbsoluteLayout>

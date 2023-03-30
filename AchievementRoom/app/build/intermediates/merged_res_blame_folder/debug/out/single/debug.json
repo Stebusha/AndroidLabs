@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable_human.png.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable\\human.png"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\layout_activity_all_achievments.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\layout\\activity_all_achievments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable_skull.png.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable\\skull.png"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\layout_activity_choices.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\layout\\activity_choices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable_scroll.png.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable\\scroll.png"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable_shield_silver.png.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable\\shield_silver.png"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable_potion_green.png.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable\\potion_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\layout_activity_db.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\layout\\activity_db.xml"
+    },
+    {
+        "merged": "com.example.achievementroom.app-merged_res-29:/layout_all_achievements_activity.xml.flat",
+        "source": "com.example.achievementroom.app-main-31:/layout/all_achievements_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable_transition.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable\\transition.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\layout_all_achievements_activity.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\layout\\all_achievements_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable_book_purple.png.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable\\book_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Stebusha\\.gradle\\daemon\\7.5\\com.example.achievementroom.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

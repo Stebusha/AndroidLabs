@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_app"
+    tools:context=".AllAchievementsActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="305dp"
+        android:layout_height="638dp"
+        android:layout_x="38dp"
+        android:layout_y="66dp"
+        android:text="TextView"
+        android:textColor="@color/main_text"
+        android:textSize="30sp" />
+</AbsoluteLayout>

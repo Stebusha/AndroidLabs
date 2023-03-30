@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_app"
+    tools:context=".MenuActivity">
+
+    <Button
+        android:id="@+id/button_inf"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_x="11dp"
+        android:layout_y="13dp"
+        android:backgroundTint="@color/btn_color"
+        android:onClick="information"
+        app:icon="@android:drawable/ic_dialog_info"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/text2"
+        android:layout_width="206dp"
+        android:layout_height="75dp"
+        android:layout_x="11dp"
+        android:layout_y="80dp"
+        android:background="@android:color/transparent"
+        android:text=""
+        android:textColor="@color/main_text"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="76dp" />
+
+    <Button
+        android:id="@+id/btn_ivents"
+        android:layout_width="204dp"
+        android:layout_height="66dp"
+        android:layout_x="96dp"
+        android:layout_y="413dp"
+        android:backgroundTint="@color/btn_color"
+        android:onClick="AllAchievements"
+        android:text="Достижения"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="389dp" />
+
+    <Button
+        android:id="@+id/btn_garderob"
+        android:layout_width="207dp"
+        android:layout_height="72dp"
+        android:layout_x="93dp"
+        android:layout_y="229dp"
+        android:backgroundTint="@color/btn_color"
+        android:onClick="startChoices"
+        android:text="Медали"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="293dp" />
+
+    <Button
+        android:id="@+id/btn_tags"
+        android:layout_width="204dp"
+        android:layout_height="68dp"
+        android:layout_x="94dp"
+        android:layout_y="320dp"
+        android:backgroundTint="@color/btn_color"
+        android:onClick="startAchievements"
+        android:text="Добавить достижение"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="475dp" />
+
+    <Button
+        android:id="@+id/btn_zapros"
+        android:layout_width="204dp"
+        android:layout_height="69dp"
+        android:layout_x="99dp"
+        android:layout_y="524dp"
+        android:backgroundTint="@color/btn_color"
+        android:onClick="Request"
+        android:text="Отправить запрос"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="389dp" />
+
+</AbsoluteLayout>
