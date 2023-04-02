@@ -11,7 +11,7 @@ ImageView image = (ImageView)findViewByid(R.id.image);
 image.setВackgroundResource(R.anim.frames); 
 AnimationDrawaЫe rnyAnim = (AnimationDrawaЫe)image.getBackground();
 ```
-Запустить и остановить анимацию можно методами start () и stop () :
+Запустить и остановить анимацию можно методами _start()_ и _stop()_:
 ```
 myAnim.start () ; 
 myAnim.stop () ;
